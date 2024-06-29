@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    background-color: #222;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+div{
+    width: 800px;
+    margin: 0 auto;
+    position: absolute;
+    height: 800px;
+    top: 50%;
+    margin-top: -100px;
+    left: 50%;
+    margin-left: -400px;
+}
